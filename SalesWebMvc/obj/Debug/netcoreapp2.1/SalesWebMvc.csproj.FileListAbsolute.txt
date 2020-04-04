@@ -33,3 +33,7 @@ C:\Users\Mateus Pereia\Documents\PESSOAIS\Estudos\Udemy\CURSO DE C#\Seção 17 -
 C:\Users\Mateus Pereia\Documents\PESSOAIS\Estudos\Udemy\CURSO DE C#\Seção 17 - Projeto com asp .net core MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\Mateus Pereia\Documents\PESSOAIS\Estudos\Udemy\CURSO DE C#\Seção 17 - Projeto com asp .net core MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 C:\Users\Mateus Pereia\Documents\PESSOAIS\Estudos\Udemy\CURSO DE C#\Seção 17 - Projeto com asp .net core MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\Mateus Pereia\Documents\PESSOAIS\Estudos\Udemy\CURSO DE C#\Seção 17 - Projeto com asp .net core MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\Mateus Pereia\Documents\PESSOAIS\Estudos\Udemy\CURSO DE C#\Seção 17 - Projeto com asp .net core MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\Mateus Pereia\Documents\PESSOAIS\Estudos\Udemy\CURSO DE C#\Seção 17 - Projeto com asp .net core MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\Mateus Pereia\Documents\PESSOAIS\Estudos\Udemy\CURSO DE C#\Seção 17 - Projeto com asp .net core MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
