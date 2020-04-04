@@ -19,7 +19,7 @@ using SalesWebMvc;
 #line default
 #line hidden
 #line 2 "C:\Users\Mateus Pereia\Documents\PESSOAIS\Estudos\Udemy\CURSO DE C#\Seção 17 - Projeto com asp .net core MVC\SalesWebMvc\SalesWebMvc\Views\_ViewImports.cshtml"
-using SalesWebMvc.Models;
+using SalesWebMvc.Models.ViewModels;
 
 #line default
 #line hidden
