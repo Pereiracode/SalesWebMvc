@@ -40,3 +40,4 @@ C:\Users\Mateus Pereia\Documents\PESSOAIS\Estudos\Udemy\CURSO DE C#\Seção 17 -
 C:\Users\Mateus Pereia\Documents\PESSOAIS\Estudos\Udemy\CURSO DE C#\Seção 17 - Projeto com asp .net core MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 C:\Users\Mateus Pereia\Documents\PESSOAIS\Estudos\Udemy\CURSO DE C#\Seção 17 - Projeto com asp .net core MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
 C:\Users\Mateus Pereia\Documents\PESSOAIS\Estudos\Udemy\CURSO DE C#\Seção 17 - Projeto com asp .net core MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\Mateus Pereia\Documents\PESSOAIS\Estudos\Udemy\CURSO DE C#\Seção 17 - Projeto com asp .net core MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
